@@ -1,4 +1,6 @@
+const resolver = require('react-docgen-annotation-resolver').default;
 module.exports = {
+	resolver,
 	title: 'React Style Guide Example',
 	defaultExample: true,
 	components: './lib/components/**/[A-Z]*.js',

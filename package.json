@@ -24,9 +24,11 @@
     "babel-preset-stage-0": "^6.24.1",
     "dog-names": "^1.0.2",
     "react": "^15.6.1",
+    "react-docgen-annotation-resolver": "^1.0.0",
     "react-dom": "^15.6.1",
     "react-modal": "^2.2.2",
     "react-styleguidist": "^6.0.4",
+    "styled-components": "^2.3.3",
     "webpack": "^3.4.1"
   },
   "scripts": {
